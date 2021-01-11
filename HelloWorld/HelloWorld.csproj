@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.Syntax.SyntaxClass</StartupObject>
+    <StartupObject>HelloWorld.Comments.CommentsClass</StartupObject>
   </PropertyGroup>
 
 </Project>
