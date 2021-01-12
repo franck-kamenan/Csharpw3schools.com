@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.Variables.VariablesClass</StartupObject>
+    <StartupObject>HelloWorld.DataTypes.DataTypesClass</StartupObject>
   </PropertyGroup>
 
 </Project>
