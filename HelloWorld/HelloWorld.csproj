@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.Booleans.BooleansClass</StartupObject>
+    <StartupObject>HelloWorld.IfElse.IfElseClass</StartupObject>
   </PropertyGroup>
 
 </Project>
