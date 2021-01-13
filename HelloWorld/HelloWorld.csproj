@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.Switch.SwitchClass</StartupObject>
+    <StartupObject>HelloWorld.WhileLoop.WhileLoopClass</StartupObject>
   </PropertyGroup>
 
 </Project>
