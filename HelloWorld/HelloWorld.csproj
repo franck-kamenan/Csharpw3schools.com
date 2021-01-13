@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.ForLoop.ForLoopClass</StartupObject>
+    <StartupObject>HelloWorld.Arrays.ArraysClass</StartupObject>
   </PropertyGroup>
 
 </Project>
