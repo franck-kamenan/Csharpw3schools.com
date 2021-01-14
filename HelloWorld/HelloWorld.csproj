@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.Methods.MethodsClass</StartupObject>
+    <StartupObject>HelloWorld.ClassesAndObjects.ClassesAndObjectsClass</StartupObject>
   </PropertyGroup>
 
 </Project>
