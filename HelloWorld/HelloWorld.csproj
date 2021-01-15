@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <StartupObject>HelloWorld.Abstraction.AbstractionClass</StartupObject>
+    <StartupObject>HelloWorld.Interface.InterfaceClass</StartupObject>
   </PropertyGroup>
 
 </Project>
