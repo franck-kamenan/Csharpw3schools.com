@@ -10,6 +10,8 @@ namespace HelloWorld.Interface
         {
             ThirdPigClass myPig = new ThirdPigClass();
             myPig.animalSound();
+            myPig.myMethod();
+            myPig.myOtherMethod();
         }
     }
 }
